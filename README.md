@@ -35,19 +35,19 @@ There are many problems in the current attendence marking system such as, human 
 #### Human Error: 
 Manual systems heavily rely on human intervention, such as teachers or staff taking attendance. This can cause errors, such as accidental miscounts, incorrect marking, or even intentional manipulation.
 
-###Time-Consuming: 
+#### Time-Consuming: 
 Manually taking attendance for each class can be time-consuming, especially in larger educational institutions. Teachers or staff members need to allocate a significant amount of time to mark attendance, which could be better utilized for teaching or other administrative tasks.
 
-###Inefficiency: 
+#### Inefficiency: 
 Manual attendance systems can be inefficient, particularly when it comes to collecting and processing attendance data. The process of transferring attendance records into spreadsheets or databases can be prone to mistakes, and searching for specific attendance records becomes more troublesome as the number of students and classes increases.
 
-###Lack of real time information and Limited  accessibility  
+#### Lack of real time information and Limited  accessibility  
 Parents don’t have access to information like how many days that the student was absent with traditional attendance management system because they are stored in papers and files. Or weather the student attend the school in a specific day.
 
-###Limited data analysis
+#### Limited data analysis
 Traditional attendance management systems can’t be used to analyse or predict something using data they have. There can be situations teachers/parents/administrators need to analyse/predict somethings based on the attendence records.
 
-###Difficulty in calculating absentee
+#### Difficulty in calculating absentee
 Calculating absentee is a time consuming and hard task with using traditional attendence recording system. It may be subject to errors too. 
 
 To overcome these failures, many educational institutions have started adopting automated attendance systems, such as biometric scanners, RFID cards, or mobile applications, which offer more accuracy, efficiency, and real-time data availability. In this project we focus on making a mobile application to overcome the above mentioned problems and add aditional features.
