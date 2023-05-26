@@ -32,7 +32,7 @@ Title: AttendMe
 There are many problems in the current attendence marking system such as, human errors, time wastage, infficency etc... To overcome those problems we will develop a mobile application with additional fetures such as, parents/guardians can check the students attendece, they can communicate with administrators/teachers, a notification to alert the absense of a student etc...
 
 ## Problem Overview
-### Human Error: 
+#### Human Error: 
 Manual systems heavily rely on human intervention, such as teachers or staff taking attendance. This can cause errors, such as accidental miscounts, incorrect marking, or even intentional manipulation.
 
 ###Time-Consuming: 
