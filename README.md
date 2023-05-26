@@ -1,7 +1,7 @@
 ---
-# Repository name and title
-repository-name: CO225 Software Construction Project
-title: AttendMe
+# Project and Title
+Project: CO225 Software Construction Project
+Title: AttendMe
 ---
 # AttendMe
 ---
