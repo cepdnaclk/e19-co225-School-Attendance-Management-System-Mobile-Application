@@ -16,7 +16,7 @@ Title: AttendMe
 
 ### Group 18
 
--  E/19/007 Achusthan T. [email](mailto:e19007@eng.pdn.ac.lk)
+-  E/19/007 Achsuthan T. [email](mailto:e19007@eng.pdn.ac.lk)
 -  E/19/111 Galappaththi M.D. [email](mailto:e19111@eng.pdn.ac.lk)
 -  E/19/134 Harnan M. [email](mailto:e19134@eng.pdn.ac.lk)
 -  E/19/227 Madhushanka M.P.J [email](mailto:e19227@eng.pdn.ac.lk)
