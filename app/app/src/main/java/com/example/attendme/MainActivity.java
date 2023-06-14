@@ -5,6 +5,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
+    public void test(){
+        System.out.println("Hello");
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
