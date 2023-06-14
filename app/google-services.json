@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "404171675394",
+    "project_id": "schoolattendancemanagementsys",
+    "storage_bucket": "schoolattendancemanagementsys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404171675394:android:28e82504172b28db5cd41b",
+        "android_client_info": {
+          "package_name": "com.maayon.school_attendance_management_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404171675394-ab7hhv67uvig4t7rboe5lp9v9ikf2ec2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZZWZCPLSA5Wzzt-7AmSaoK9wIASRdy7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404171675394-ab7hhv67uvig4t7rboe5lp9v9ikf2ec2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
