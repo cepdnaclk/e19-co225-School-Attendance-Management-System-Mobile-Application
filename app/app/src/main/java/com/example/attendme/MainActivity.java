@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
     public void test(){
-        System.out.println("Hello");
+        System.out.println("test");
     }
 
     @Override
