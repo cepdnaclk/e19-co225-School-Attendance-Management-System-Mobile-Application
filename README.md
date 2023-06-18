@@ -75,4 +75,4 @@ https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
 
 ## Please refer below URL for the Design:
 
-https://www.figma.com/file/jTUlw1CMD1RWKiOs0o4fzh/225_Project?type=design&node-id=0%3A1&t=xVJ6yFw2KfJ3OuGa-1
+https://www.figma.com/team_invite/redeem/ika7gs1hDIBIM9D9mALdcP
