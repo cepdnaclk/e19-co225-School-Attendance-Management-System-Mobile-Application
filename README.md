@@ -72,3 +72,7 @@ In summary, the system simplifies attendance management, promotes communication 
 ## Please refer the instructions in below URL:
 
 https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
+
+## Please refer below URL for the Design:
+
+https://www.figma.com/team_invite/redeem/ika7gs1hDIBIM9D9mALdcP
