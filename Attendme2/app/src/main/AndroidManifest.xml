@@ -2,6 +2,13 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <uses-feature
+        android:name="android.hardware.telephony"
+        android:required="true" />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -13,24 +20,75 @@
         android:theme="@style/Theme.Attendme"
         tools:targetApi="31">
         <activity
-            android:name=".LoginActivity"
-            android:exported="false">
-
-        </activity>
-
+            android:name=".GetReportActivity"
+            android:exported="false" />
         <activity
-            android:name=".SignInActivity"
-            android:exported="true" >
-
-        <intent-filter>
-            <action android:name="android.intent.action.MAIN" />
-            <category android:name="android.intent.category.LAUNCHER" />
-        </intent-filter>
-        </activity>
+            android:name=".AdministrationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ParentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AddTeacherActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CreateClassActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RemoveStudentActivityAdmin"
+            android:exported="false" />
         <activity
             android:name=".MainActivity"
-            android:exported="false">
+            android:exported="false" />
+        <activity
+            android:name=".ParentNotesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AddStudentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SignInActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EnrolStudentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AddApproveStudentActivityAdmin"
+            android:exported="false" />
+        <activity
+            android:name=".RemoveApproveStudentActivityAdmin"
+            android:exported="false" />
+        <activity
+            android:name=".RemoveStudentActivityTeacher"
+            android:exported="false" />
+
+        <activity
+            android:name=".TeachersActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdminsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
+
+        <service
+            android:name=".MyFirebaseMessagingService"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name=".MarkAttendanceActivity"
+            android:exported="true" />
     </application>
 
 </manifest>
