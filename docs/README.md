@@ -68,6 +68,6 @@ A mobile application with the following features.
 In summary, the system simplifies attendance management, promotes communication with parents/guardians, and provides comprehensive reports for analysis.
 
 ### Technology Stack
-<p align="center"> <img src = "docs/images/TechnologyStack.png" width="580"> </p>
+<p align="center"> <img src = "images/TechnologyStack.png" width="580"> </p>
 
 ---
