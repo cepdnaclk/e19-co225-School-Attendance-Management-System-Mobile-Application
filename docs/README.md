@@ -71,14 +71,3 @@ In summary, the system simplifies attendance management, promotes communication 
 <p align="center"> <img src = "docs/images/TechnologyStack.png" width="580"> </p>
 
 ---
-
-
-
-
-## Please refer to the instructions below URL:
-
-https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
-
-## Please refer below URL for the Design:
-
-https://www.figma.com/team_invite/redeem/ika7gs1hDIBIM9D9mALdcP
