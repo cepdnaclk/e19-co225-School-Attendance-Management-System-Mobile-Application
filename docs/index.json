@@ -1,0 +1,56 @@
+{
+    "title": "School Attendance Management System Mobile Application"
+    "team": [
+        {
+            "name": "Achsuthan T.",
+            "email": "e19007@eng.pdn.ac.lk",
+            "eNumber": "E/19/007"
+        },
+        {
+            "name": "Galappaththi M. D.",
+            "email": "e19111@eng.pdn.ac.lk",
+            "eNumber": "E/19/111"
+        },
+        {
+            "name": "Harnan M.",
+            "email": "e19134@eng.pdn.ac.lk",
+            "eNumber": "E/19/134"
+        },
+        {
+            "name": "Madhushanka M. P. J.",
+            "email": "e19227@eng.pdn.ac.lk",
+            "eNumber": "E/19/227"
+        },
+        {
+            "name": "Kaushalya N.V.K.",
+            "email": "e19193@eng.pdn.ac.lk",
+            "eNumber": "E/19/193"
+        },
+        {
+            "name": "Pushpakumara R.S.P.M.",
+            "email": "e19304@eng.pdn.ac.lk",
+            "eNumber": "E/19/304"
+        },
+        {
+            "name": "Senevirathna T.N.",
+            "email": "e19363@eng.pdn.ac.lk",
+            "eNumber": "E/19/363"
+        },
+        {
+            "name": "Silva N.H.D.U.",
+            "email": "e19375@eng.pdn.ac.lk",
+            "eNumber": "E/19/375"
+        },
+    ],
+    "supervisors": [
+        {
+            "name": "Dr. Mahanama Wickramasinghe",
+            "email": "mahanamaw@eng.pdn.ac.lk"
+        },
+        {
+            "name": "Mrs. Nadeesha Adikari",
+            "email": "nadeeshaa@eng.pdn.ac.lk"
+        }
+    ],
+    "tags": ["Java", "Android Studio"]
+}
