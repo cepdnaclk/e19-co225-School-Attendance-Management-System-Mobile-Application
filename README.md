@@ -29,6 +29,7 @@ Title: AttendMe
 2. [Problem Overview](#problem-overview)
 3. [Proposed Solution](#proposed-solution)
 4. [Technology Stack](#TEchnology-Stack)
+5. [Design and Implementation](#Design-and-Implementation)
 
 ---
 ## Overview
@@ -64,12 +65,6 @@ A mobile application with the following features.
 4. Attendance Reporting: The principal or authorized personnel can access attendance data, view counts by date, class, grade, or section, and analyze attendance patterns.
 In summary, the system simplifies attendance management, promotes communication with parents/guardians, and provides comprehensive reports for analysis.
 
-
----
-
-## Please refer below URL for the Design:
-
-https://www.figma.com/team_invite/redeem/ika7gs1hDIBIM9D9mALdcP
 
 ---
 
