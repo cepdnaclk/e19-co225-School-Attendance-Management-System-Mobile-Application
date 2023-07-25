@@ -2,7 +2,8 @@
 # Project and Title
 Project: CO225 Software Construction Project
 Title: AttendMe
-
+---
+---
 # AttendMe
  ![Online-Attendance-Management-System-768x722](https://github.com/cepdnaclk/e19-co225-School-Attendance-Management-System-Mobile-Application/assets/115539818/e20dcb6c-627f-4526-86db-0d8372651ac2)
 ---
