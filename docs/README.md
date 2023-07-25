@@ -103,9 +103,9 @@ Firebase, a comprehensive mobile and web application development platform, was c
 ## Design and Implementation
 ![Untitled Diagram drawio (1)](https://github.com/cepdnaclk/e19-co225-School-Attendance-Management-System-Mobile-Application/assets/115540141/d12886a6-a8f4-45d8-a836-1f49dfbe7dee)
 
-[https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project](https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project)
+[https://github.com/cepdnaclk/e19-co225-School-Attendance-Management-System-Mobile-Application](https://github.com/cepdnaclk/e19-co225-School-Attendance-Management-System-Mobile-Application)
 
 ## Please refer below URL for the Design:
 
-[https://www.figma.com/team_invite/redeem/ika7gs1hDIBIM9D9mALdcP](https://www.figma.com/team_invite/redeem/ika7gs1hDIBIM9D9mALdcP)
+[https://www.figma.com/file/jTUlw1CMD1RWKiOs0o4fzh/225_Project?type=design&node-id=0%3A1&mode=design&t=31XUjiTxrDYTvxXy-1](https://www.figma.com/file/jTUlw1CMD1RWKiOs0o4fzh/225_Project?type=design&node-id=0%3A1&mode=design&t=31XUjiTxrDYTvxXy-1)
 
