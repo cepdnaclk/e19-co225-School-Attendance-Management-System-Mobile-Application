@@ -100,7 +100,7 @@ Firebase, a comprehensive mobile and web application development platform, was c
 
 
 
-## Design and Implementation
+## Design and Implementation:
 ![Untitled Diagram drawio (1)](https://github.com/cepdnaclk/e19-co225-School-Attendance-Management-System-Mobile-Application/assets/115540141/d12886a6-a8f4-45d8-a836-1f49dfbe7dee)
 
 [https://github.com/cepdnaclk/e19-co225-School-Attendance-Management-System-Mobile-Application](https://github.com/cepdnaclk/e19-co225-School-Attendance-Management-System-Mobile-Application)
